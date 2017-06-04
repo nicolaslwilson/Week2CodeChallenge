@@ -14,6 +14,6 @@ Follow the steps below to complete the code challenge:
 
 6. Clicking a "Swap" `<button>` should change its parent background-color from Red to Yellow.
 
-7. Clicking a "Delete" `<button>` should remove its parent <div> container (and all of its contents).
+7. Clicking a "Delete" `<button>` should remove its parent `<div>` container (and all of its contents).
 
 No need to do anything beyond the challenge described above. Once you are complete, check your code into a GitHub repo and submit via this application. Then quietly leave the room until the challenge is over.
